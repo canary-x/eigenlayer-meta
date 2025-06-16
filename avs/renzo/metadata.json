@@ -1,6 +1,6 @@
 {
   "name": "Renzo wBTC DVN",
-  "website": "https://www.renzo.dispute.canaryprotocol.com/",
+  "website": "https://renzo.dispute.canaryprotocol.com/disputes",
   "description": " Renzo wBTC DVN is a branded AVS on EigenLayer that leverages Decentralized Verification Network (DVN) technology to provide lightweight, trust-minimized verification for bridging assets. It is secured by restaked wBTC via ezBTC, operated by Pier Two, and actively maintained by Canary." ,
   "logo": "https://raw.githubusercontent.com/canary-x/eigenlayer-meta/refs/heads/main/avs/renzo/logo.png",
   "twitter": "https://twitter.com/canary_proto"
